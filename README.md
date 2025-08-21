@@ -27,8 +27,6 @@ The pipeline can be extended with transformations and data loading into **Postgr
 └── README.md # Project documentation
 
 yaml
-Kopiuj
-Edytuj
 
 ---
 
