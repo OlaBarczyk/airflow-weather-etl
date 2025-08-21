@@ -26,8 +26,6 @@ The pipeline can be extended with transformations and data loading into **Postgr
 ├── airflow_settings.yaml # Airflow variables & settings
 └── README.md # Project documentation
 
-yaml
-
 ---
 
 ## 🚀 Run Locally
