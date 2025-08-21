@@ -1,0 +1,12 @@
+# Python / Airflow
+__pycache__/
+*.pyc
+
+# Airflow logs & outputs
+logs/
+dags/output/*.csv
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+
