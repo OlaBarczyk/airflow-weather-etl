@@ -60,8 +60,6 @@ Docker + Astro CLI – local runtime environment
 👩‍💻 Author
 Project created as part of learning ETL pipelines with Airflow – Ola Barczyk
 
-yaml
-Kopiuj
-Edytuj
+
 
 ---
